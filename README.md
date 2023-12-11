@@ -18,3 +18,5 @@ FOUR
 
 FIVE
 “One of the best programming skills you can have is knowing when to walk away for a while.” – Oscar Godson
+SIX
+"Computing is an unlimited knowlegde, on which the world would crash.... AI on its way to displacing human potential."
